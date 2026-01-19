@@ -16,4 +16,5 @@ const SEO: React.FC = () => {
     </Helmet>
   );
 };
+
 export default SEO;
