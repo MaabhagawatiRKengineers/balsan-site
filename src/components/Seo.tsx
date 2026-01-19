@@ -17,4 +17,5 @@ const SEO: React.FC = () => {
   );
 };
 
+
 export default SEO;
